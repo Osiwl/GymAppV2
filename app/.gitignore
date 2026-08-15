@@ -1,0 +1,8 @@
+# Llaves de producción
+*.jks
+*.keystore
+
+# Paquetes de producción
+*.aab
+# Archivos locales de Android Studio
+.idea/

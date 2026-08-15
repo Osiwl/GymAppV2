@@ -1,0 +1,45 @@
+# ==============================
+# ANDROID / GRADLE
+# ==============================
+
+.gradle/
+.kotlin/
+
+# Todas las carpetas build
+**/build/
+
+# Archivos locales
+local.properties
+
+# ==============================
+# ANDROID STUDIO
+# ==============================
+
+.idea/
+*.iml
+
+# ==============================
+# ARCHIVOS TEMPORALES
+# ==============================
+
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ==============================
+# LLAVES DE PRODUCCIÓN
+# ==============================
+
+*.jks
+*.keystore
+
+# ==============================
+# PAQUETES DE PRODUCCIÓN
+# ==============================
+
+*.aab
+*.apk
+
+# Carpeta generada al crear release
+app/release/
